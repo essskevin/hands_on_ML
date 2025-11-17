@@ -33,7 +33,7 @@ This project is intended as a personal study tool and reference. It follows the 
 ## 📜 Disclaimer
 When starting this repository, last version of book was *Hands-On Machine Learning with Scikit-Learn, Keras and Tensorflow (III Edition)*. 
 
-When writing this, last edition of the book is *Hands-On Machine Learning with Scikit-Learn and PyTorch (I Edition)*, which takes some major changes in Second Part of the book about Deep Learning (all codes in Keras and Tensorflow has been re-written using the PyTorch framework) and some minor changes in First Part of the book about Machine Learning (e.g., Chapter 7 formerly about *Support Vector Machines* has been deleted). You'll still find some things of the older edition while trying to update everything to the latest edition.
+When writing this, last edition of the book is *Hands-On Machine Learning with Scikit-Learn and PyTorch (I Edition)*, which takes some major changes in Second Part of the book about Deep Learning (all codes in Keras and Tensorflow has been re-written using the PyTorch framework) and some minor changes in First Part of the book about Machine Learning (e.g., Chapter 5 formerly about *Support Vector Machines* has been deleted). You'll still find some things of the older edition while trying to update everything to the latest edition.
 
 This repo is not an official companion to the book. All content is for educational purposes only.
 Full credit to Aurélien Géron for the original book and examples.
