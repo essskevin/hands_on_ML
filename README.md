@@ -14,7 +14,7 @@ The notebooks cover key topics in **machine learning** and **deep learning**, in
 - Fundamentals of machine learning
 - Supervised and unsupervised learning
 - Model evaluation and tuning
-- Neural networks with Keras and TensorFlow
+- Neural networks
 - Convolutional and recurrent networks
 - Production-ready ML workflows
 
